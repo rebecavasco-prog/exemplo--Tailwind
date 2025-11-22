@@ -67,12 +67,4 @@ O projeto utiliza componentes reutilizáveis, validação simples e estilizaçã
 
 1. Clone o repositório
    ---bash
-   git clone https://github.com/rebecavasco-prog/exemplo-- Tailwind-css-.git
-   cd projeto-react-css
-   
-
-
-
-
-
-
+   git clone https://github.com/rebecavasco-prog/exemplo--Tailwind.git
